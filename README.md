@@ -12,4 +12,4 @@ Además de Java, este repositorio incluye ejercicios y proyectos en otras tecnol
 
 ### Explora y Disfruta del Código! 🚀
 
-Sientete libre de explorar los diferentes directorios y proyectos. ¡Espero que encuentres útiles los ejercicios y proyectos que aquí se encuentran! :computer: :computer:	
+Sientete libre de explorar los diferentes directorios y proyectos. ¡Espero que encuentres útiles los ejercicios y proyectos que aquí se encuentran! :computer::computer::computer:		
